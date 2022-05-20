@@ -1378,7 +1378,7 @@ footer .top {
         right: -100%;
     }
     header .mobile_nav .mobile_nav_in {
-        width: 80%;
+        width: 40%;
         height: 100vh;
         background-color: #fff;
         float: right;
@@ -1642,6 +1642,9 @@ footer .top {
 
 
 @media screen and (max-width:768px){
+    header .mobile_nav .mobile_nav_in {
+        width: 60%;
+    }
     /* 2번째 */
     .banner {
         padding: 100px;
@@ -1877,6 +1880,9 @@ footer .top {
         width: 30px;
         margin-top: 28px;
         margin-right: 20px;
+    }
+    header .mobile_nav .mobile_nav_in {
+        width: 70%;
     }
     .visual {
         height: 700px;
@@ -2233,6 +2239,9 @@ footer .top {
         width: 30px;
         margin-top: 30px;
         margin-right: 20px;
+    }
+    header .mobile_nav .mobile_nav_in {
+        width: 80%;
     }
     .visual {
         height: 600px;
