@@ -1378,7 +1378,7 @@ footer .top {
         right: -100%;
     }
     header .mobile_nav .mobile_nav_in {
-        width: 60%;
+        width: 80%;
         height: 100vh;
         background-color: #fff;
         float: right;
@@ -1958,7 +1958,7 @@ footer .top {
         background-color: #b5d39e;
     }
     .six_tab .product .slick-slide {
-        height: 80vh;
+        height: 90vh;
         flex-flow: column nowrap;
     }
     .six_tab .product .slick-slide > div {
