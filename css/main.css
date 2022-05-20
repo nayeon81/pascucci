@@ -2243,6 +2243,13 @@ footer .top {
     header .mobile_nav .mobile_nav_in {
         width: 80%;
     }
+    header .mobile_nav .mobile_nav_in .mobile_sns {
+        margin-top: 15px;
+    }
+    header .mobile_nav .mobile_nav_in .mobile_sns ul li {
+        width: 25px;
+        margin: 15px;
+    }
     .visual {
         height: 600px;
     }
